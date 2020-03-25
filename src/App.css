@@ -1,0 +1,42 @@
+body {
+  margin-top: 140px;
+  background-color: rgb(60, 122, 236);
+
+}
+
+.App {
+  text-align: center;
+  background-color: rgb(126, 158, 219);
+  
+}
+
+
+button{
+ padding: 15px 32px;
+ /* size: 20px; */
+ margin: 22px;
+ font-size: 12px;
+ color: black;
+ display: inline-block;
+ background-color: rgb(94, 230, 230); 
+}
+
+button:hover{
+  background-color: rgb(216, 87, 87);
+}
+
+/* li {
+  list-style: none;
+} */
+
+.start{
+  border: 1px solid red;
+  padding: 10px;
+  font-size: 15px;
+  background-color: green;
+  color: beige;
+}
+
+.start:hover{
+  background-color: rgb(216, 87, 87);
+}
